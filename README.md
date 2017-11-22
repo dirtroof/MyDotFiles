@@ -1,6 +1,9 @@
 # MyDotFiles
 My configuration  & rice files for Fedora 27
 
+## Set-up instructions
+**https://developer.atlassian.com/blog/2016/02/best-way-to-store-dotfiles-git-bare-repo/**
+* Note - The name of the repo is changed to .MyDotFiles rather than .cfg
 
 ## Workflow Apps
 * i3
