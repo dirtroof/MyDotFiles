@@ -90,3 +90,7 @@ set statusline=%F%h%m%r%w%=\Column:\ %3c\ -\ \Line:\ %l/%-5L
 
 " Enable ruler
 set ruler
+
+" Add line numbering.
+set number
+
